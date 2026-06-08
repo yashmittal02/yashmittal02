@@ -12,6 +12,9 @@ I’m currently working on building small projects in Java and Python.<br>I’m 
 ![](https://nirzak-streak-stats.vercel.app/?user=yashmittal02&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yashmittal02&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## See me here:
+https://yashmittal02.github.io/online-cv/
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=yashmittal02&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
